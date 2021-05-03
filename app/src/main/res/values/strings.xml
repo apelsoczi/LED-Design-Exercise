@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LED Design Exercise</string>
+    <string name="new_match_title">New Match</string>
+    <string name="new_match_message">Would you like to start a new match?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
